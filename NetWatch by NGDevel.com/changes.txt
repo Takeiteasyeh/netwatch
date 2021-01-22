@@ -1,0 +1,36 @@
+﻿/* NetWatch by Ray Lynk
+ * 
+ * File:    Status.cs
+ * Purpose: Status progress notification screen.
+ * Version: 2.2
+ * Author:  Ray Lynk
+ * Email:   rlynk@3rad.ca
+ * Website: https://software.3rad.ca/netwatch/
+ */
+
+  # Version 2.2
+  # Build Jan 22, 2021
+
+  + addition of automatic updates, although no graphical interface from main app yet. (installforge)
+  + this file is now included in the install.
+  * minor changes and fixes to bring up to date.
+
+  -------------------------------
+  # Version 2.1
+
+  * Log console now resizes properly.
+  * Graphical tweaks.
+  * Fixed a crash bug when sometimes closing the console.
+  * Added more statistics to the monitor window.
+  * Added a graphical representration of current to previous pings.
+
+  @ Event based ping monitoring implementation has been started.
+
+ --------------------------------
+ # Version 2.0.2
+ # Built Nov 26/13
+
+ * You may now disable no-reply notifications.
+ * Added no-reply notifications settings to Settings window.
+ * Fixed an issue causing NetWatch to always use google as the ping host.
+ * Updated ping hosts.
