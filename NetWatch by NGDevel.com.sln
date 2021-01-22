@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWatch", "NetWatch by NGDevel.com\NetWatch.csproj", "{9ADEAA94-EDD3-40A5-80F7-D4152786B9FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADEAA94-EDD3-40A5-80F7-D4152786B9FD}.Debug|x86.ActiveCfg = Debug|x86
+		{9ADEAA94-EDD3-40A5-80F7-D4152786B9FD}.Debug|x86.Build.0 = Debug|x86
+		{9ADEAA94-EDD3-40A5-80F7-D4152786B9FD}.Release|x86.ActiveCfg = Release|x86
+		{9ADEAA94-EDD3-40A5-80F7-D4152786B9FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6D5E12-3442-4298-AC37-BCF7501DF0A6}
+	EndGlobalSection
+EndGlobal
